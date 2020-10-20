@@ -1,0 +1,5 @@
+[package]
+name = "bf-interpreter"
+version = "1.0.0"
+authors = ["lucas-deangelis <lucas.de-angelis@epitech.eu>"]
+edition = "2018"
